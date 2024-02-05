@@ -6,14 +6,18 @@ Here are the steps to access and interact with the graph within EDA, available t
 Local Machine Configuration:
 
 1.       Create the directory C:\Users\[YourUsername]\.config\geodesic on your local machine, substituting [YourUsername] with your actual username. 
+
 2.       Place the provided configuration file in this directory to enable authentication.
+
 3.       Ensure you are logged into the Goamerigeo Azure tenant prior to accessing EDA, as it manages all authentication processes.
 
  
 
 EDA Homepage Navigation:
 1.       Visit the EDA homepage and select the 'Graph Apps' icon.
+
 2.       Choose the 'EDA Knowledge Graph' application on the subsequent page to initialize your user account in the system backend.
+
 3.       Notify us post account creation to escalate your privileges and grant access to various graph projects.
 
  
@@ -21,8 +25,11 @@ EDA Homepage Navigation:
 Graph UI Access and Global Graph:
 
 1.       After setting up your account, access the graph UI. A dropdown menu at the top allows you to select and view different graph projects you have access to.
+
 2.       Use the text-based query box for basic searches. Initially, you'll have access to the 'Global Graph', which contains metadata for a variety of datasets.
+
 3.       The 'Global Graph' serves as a directory or index to these datasets, which are hosted externally. It does not directly contain the datasets.
+
 4.       You can query this raw external data using the geodesic API directly from the command line. Instructions for these queries are provided in both the notebooks and the online api documentation.
 
  

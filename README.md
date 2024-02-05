@@ -14,6 +14,7 @@ Local Machine Configuration:
  
 
 EDA Homepage Navigation:
+
 1.       Visit the EDA homepage and select the 'Graph Apps' icon.
 
 2.       Choose the 'EDA Knowledge Graph' application on the subsequent page to initialize your user account in the system backend.
@@ -37,6 +38,7 @@ Graph UI Access and Global Graph:
 Development Environment Setup:
 
 1.       Choose your preferred Integrated Development Environment (IDE), like Visual Studio Code, and run pip install geodesic-api[all]. Or open one of the following notebooks. The jupyter notebooks are a bit easier to navigate.  See next.
+
 2.       Explore a collection of notebooks on GitHub at seerai/GeodesicExamples for different authentication and programmatic access methods. For the most recent versions, refer to the zip file of notebooks I’ve included. LINK:   seerai/GeodesicExamples: A public repository for users to view examples of Geodesic and its components (github.com)
 
  
@@ -44,6 +46,7 @@ Development Environment Setup:
 Methodologies and API Documentation:
 
 1.       Consult the Quickstart section at geodesic-python-api main documentation for detailed guidance. LINK:  Quickstart — geodesic-python-api main documentation (seerai.space)
+
 2.       Visit the 'How to Use This' section under the documentation at geodesic-python-api main documentation for practical tips and examples. LINK: How to Use This — geodesic-python-api main documentation (seerai.space)
 
  

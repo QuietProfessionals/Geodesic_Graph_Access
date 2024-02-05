@@ -1,5 +1,4 @@
 # Geodesic_Graph_Access
-
 Here are the steps to access and interact with the graph within EDA, available through both the User Interface (UI) and programmatically.
 
  

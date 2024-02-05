@@ -1,0 +1,35 @@
+{
+    "active": "eda",
+    "clusters": [
+        {
+            "host": "https://api.geodesic.seerai.space",
+            "name": "seerai",
+            "oauth2": {
+                "audience": "https://geodesic.seerai.space",
+                "authorization_uri": "https://seerai.us.auth0.com/authorize",
+                "client_id": "RlCTevNLPn0oVzmwLu3R0jCF7tfakpq9",
+                "client_secret": "EY5_-6InmoqYSy1ZEKb7vGiUrCTE1JapTtBncaP_w_0_IhuSilZw1YS6pqoJ0n75",
+                "redirect_uri": "https://seerai.space/authPage",
+                "token_uri": "https://seerai.us.auth0.com/oauth/token"
+            }
+		},
+		{
+			"host": "https://api.geodesic.goamerigeo.com",
+			"name": "eda",
+			"oauth2": {
+				"audience": "71dffb3a-0170-4a5b-b494-8318905eefc1",
+				"authorization_uri": "https://login.microsoftonline.us/65b26716-c7d0-4cea-84e2-12d5541ad69d/oauth2/v2.0/authorize",
+				"client_id": "71dffb3a-0170-4a5b-b494-8318905eefc1",
+				"client_secret": "rRr~_2bHABPEsToM3YIf_weFFq5dT29KW~",
+				"redirect_uri": "https://seerai.space/authPage",
+				"scopes": [
+						   "openid",
+						   "profile",
+						   "offline_access",
+						   "api://71dffb3a-0170-4a5b-b494-8318905eefc1/geodesic:access"
+						  ],
+				"token_uri": "https://login.microsoftonline.us/65b26716-c7d0-4cea-84e2-12d5541ad69d/oauth2/v2.0/token"
+			}
+		}				 
+    ]
+}
